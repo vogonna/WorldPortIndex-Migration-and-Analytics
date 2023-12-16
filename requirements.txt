@@ -1,0 +1,2 @@
+- Python 3.x
+- Required Python packages can be installed using: pip install pyodbc pandas sqlalchemy python-dotenv
